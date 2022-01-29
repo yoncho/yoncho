@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I'm Yoncho (yonghyun cho) 
+## Software Developer in Autocrypt.
+## Make Program about the car fuzzing
+
 <!--
 **yoncho/yoncho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
