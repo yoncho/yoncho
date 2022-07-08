@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### I'm Yoncho (yonghyun cho) 
-#### Software Developer in Autocrypt.
+####
 #### :D 
 
 <!--
