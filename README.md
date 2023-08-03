@@ -15,6 +15,9 @@ History
          자동차 퍼징 도구 개발, UDS(ECU 진단 통신 프로토콜)기반 CAN(FD) Fuzzing Tool
 
 
+Blog
+Tistory : https://yonghyn.tistory.com/5
+
 SNS
 Linkedin : https://www.linkedin.com/in/%EC%9A%A9%ED%98%84-%EC%A1%B0-9702261b7/
 
