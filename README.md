@@ -4,8 +4,6 @@
 ####
 #### :D 
 
-![image](https://github.com/yoncho/yoncho/assets/44021629/b02a0267-b036-4715-9def-7e872f235cff)
-
 History
 1. [2018.10 - 2021.01] 4CLOVER (대학생 창업, 대표)
   team : HiHu 
