@@ -25,7 +25,7 @@
                                                         
 2020.12 ~ 2021.09 / 42SEOUL [교육기관, 카뎃]
                            |-- 3기                    / 라피신 & 본과정
-                              활동명: yoncho          Linux  C Project
+                              닉네임: yoncho          Linux  C Project
                        
 2018.10 ~ 2021.01 / 4CLOVER [대학생 창업, 대표] 
                            |-- Team. HiHu             / HiHu (Hi Hanseo univ.) Service 기획 및 개발
