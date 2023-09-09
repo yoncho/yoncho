@@ -4,7 +4,9 @@
 ####
 #### :D 
 
+
 <img src="https://img.shields.io/badge/42seoul (yoncho)-000000?style=for-the-badge&logo=42&logoColor=white">
+<a href="https://yonghyn.tistory.com/5" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
 
 History
 1. [2018.10 - 2021.01] 4CLOVER (대학생 창업, 대표)
