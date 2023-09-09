@@ -14,7 +14,7 @@
                            |-- Team. Vehicle.Fuzzer   / Vehicle CAN(FD) Fuzzer
                                팀원 조용현             담당 프로젝트
                                                         (1) [2021.09 ~ 2022.08] AUTOCRYPT Security Fuzzer
-                                                        (2) [2022.08 ~ 2023.08] HYUNDAI MOTOR COMPONY Vehicle CAN(FD) Fuzzer
+                                                        (2) [2022.08 ~ 2023.08] HYUNDAI   Vehicle CAN(FD) Fuzzer
                                                       담당 개발 업무
                                                         (1) CAN BUS Parameter Setting
                                                         (2) CAN FRAME(single/first/consecutive/flow-control) Req/Res Send and Validation
