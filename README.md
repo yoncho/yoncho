@@ -4,7 +4,7 @@
 ####
 #### :D 
 
-<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=42&logoColor=white">
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=42&logoColor=#000000">
 
 History
 1. [2018.10 - 2021.01] 4CLOVER (대학생 창업, 대표)
