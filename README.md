@@ -2,7 +2,7 @@
 
 #### I'm Yoncho (yonghyun cho) :D 
 
-<img src="https://img.shields.io/badge/42seoul (yoncho)-000000?style=for-the-badge&logo=42&logoColor=white">
+<img src="https://img.shields.io/badge/42seoul (yoncho)-000000?style=for-the-badge&logo=42&logoColor=white"><a href="https://www.credential.net/f951e994-ab9b-4437-9ff1-c45a39d3877c" target="_blank"><img src="https://img.shields.io/badge/tensorflow cretificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
 <a href="https://yonghyn.tistory.com/5" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/%EC%9A%A9%ED%98%84-%EC%A1%B0-9702261b7/" target="_blank"><img src="https://img.shields.io/badge/Cho yong hyun-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
