@@ -4,6 +4,12 @@
 ####
 #### :D 
 
+<img src="https://img.shields.io/badge/42seoul (yoncho)-000000?style=for-the-badge&logo=42&logoColor=white">
+<a href="https://yonghyn.tistory.com/5" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/%EC%9A%A9%ED%98%84-%EC%A1%B0-9702261b7/" target="_blank"><img src="https://img.shields.io/badge/Cho yong hyun-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+
+
+
 <h4>🚀 Activities </h4>
 
 ```
@@ -44,10 +50,6 @@ AUTOCRYPT [자동차보안회사, 정규직]
      팀원 전나현             
 ```
 
-
-<img src="https://img.shields.io/badge/42seoul (yoncho)-000000?style=for-the-badge&logo=42&logoColor=white">
-<a href="https://yonghyn.tistory.com/5" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/%EC%9A%A9%ED%98%84-%EC%A1%B0-9702261b7/" target="_blank"><img src="https://img.shields.io/badge/Cho yong hyun-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
 
 <!--
