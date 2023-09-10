@@ -9,7 +9,8 @@
 ```
 2023.08 ~         / 교육과정 진행중..
 
-2021.09 ~ 2023.08 / AUTOCRYPT [자동차보안회사, 정규직]
+2021.09 ~ 2023.08
+AUTOCRYPT [자동차보안회사, 정규직]
  |-- Lab. Vehicle Threat Research [자동차 보안 위협 연구소]
  |-- Group. Vehicle.Solution
  |-- Team. Vehicle.Fuzzer   / Vehicle CAN(FD) Fuzzer
@@ -23,12 +24,14 @@
                               (4) Message Editor (UDS Sequece/ Fuzzing Message/ Validation Message)
                               (5) Instrumentation/ External Instrumentation Validation (.dbc)
                               (6) Fuzzing End-to-End
-                                                        
-2020.11 ~ 2021.09 / 42SEOUL [교육기관, 카뎃]
+----------------------------------------------------------------------------------------------------------------------------                                                        
+2020.11 ~ 2021.09
+42SEOUL [교육기관, 카뎃]
  |-- 3기                    / 라피신 & 본과정
      닉네임: yoncho          Linux  C Project
-                       
-2018.10 ~ 2021.02 / 4CLOVER [대학생 창업, 대표] 
+----------------------------------------------------------------------------------------------------------------------------                       
+2018.10 ~ 2021.02
+4CLOVER [대학생 창업, 대표] 
  |-- Team. HiHu             / HiHu (Hi Hanseo univ.) Service 기획 및 개발
  |   팀장 조용현             소개 :  
  |   팀원 홍동현               대학생활 정보 제공 서비스 HiHu 기획, 개발, 운영 유지 보수를 진행함.
