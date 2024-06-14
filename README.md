@@ -8,9 +8,23 @@
 
 <h4>🚀 Activities </h4>
 
-```                                              
+
+<details>
+<summary>활동 이력</summary>
+
+
+```
+2024.02 ~
+POSCO DX [SI, 개발자]
+|--  IT 사업실, 마케팅DX추진반 영업판매섹션 MI/Pricing
+                                         
+2023.08 ~ 2024.02
+POSCO DX [교육]
+PosWhale : MSA 기반 통합물류 출하유통 시스템
+|-- 담당 : Vessel Monitoring 
+
 2021.09 ~ 2023.08
-AUTOCRYPT [자동차보안회사, 정규직]
+AUTOCRYPT [자동차보안회사, 개발자]
  |-- Lab. Vehicle Threat Research [자동차 보안 위협 연구소]
  |-- Group. Vehicle.Solution
  |-- Team. Vehicle.Fuzzer   / Vehicle CAN(FD) Fuzzer
@@ -31,8 +45,12 @@ AUTOCRYPT [자동차보안회사, 정규직]
      닉네임: yoncho          Linux  C Project
 
 2018.10 ~ 2021.02
-4CLOVER [대학생 창업, 대표]         
+4CLOVER [대학생 창업, 대표]
+|-- HIHu : 대학 생활 정보 제공 서비스 (Hybrid Web/App)
 ```
+
+</details>
+
 
 
 
